@@ -18,7 +18,7 @@ public class NumberPalindromes {
             temp = temp / 10;//10
 
         }
-        if(temp==sum){
+        if(n==sum){
             System.out.println("Number is Pallindrome");
         }
         else
